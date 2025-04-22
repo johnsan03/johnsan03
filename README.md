@@ -112,29 +112,33 @@
 	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
-
+<p align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=johnsan03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=johnsan03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsan03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</p>
+<p align="center">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=johnsan03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+</p>
+<p align="center">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</p>
+<p align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=johnsan03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+</p>
 [![](https://visitcount.itsvg.in/api?id=johnsan03&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="" />
-  <source media="(prefers-color-scheme: light)" srcset"" />
+  <source media="(prefers-color-scheme: light)" srcset="" />
   <img alt="contribution grid snake animation" src="" />
-</picture>
+</picture> -->
 
 <p align="center">
 	<img src="assets/wave.svg">
