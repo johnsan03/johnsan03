@@ -131,9 +131,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnsan03/johnsan03/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnsan03/johnsan03/output/github-contribution-grid-snake-dark.svg" />
-  <img alt=" " src="https://raw.githubusercontent.com/johnsan03/johnsan03/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
+</picture>
+<div align="center">
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;">
+</div>
 <p align="center">
 	<img src="assets/wave.svg">
 </p>
