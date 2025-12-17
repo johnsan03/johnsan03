@@ -117,6 +117,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=johnsan03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
