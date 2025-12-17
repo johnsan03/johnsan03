@@ -4,7 +4,8 @@
 </h1>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_j_m_j_03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:john10mar28@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://johnsan03.github.io/Portfolio/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_j_m_j_03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:john10mar28@gmail.com) 
+
 
 ## 🛠️ My favorite Tools
 
