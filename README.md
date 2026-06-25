@@ -112,7 +112,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=marshal-johnsan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=johnsan03&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -122,7 +122,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marshal-johnsan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnsan03&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -132,7 +132,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marshal-johnsan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=johnsan03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
